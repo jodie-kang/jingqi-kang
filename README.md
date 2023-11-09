@@ -40,7 +40,22 @@ Here are some ideas to get you started:
 - [第五届中国“互联网+”大学生创新创业大赛](https://cy.ncss.cn/): Innovation and Entrepreneurship among Chinese College Students, **National Bronze Medal**
 
 ### Experiences 👯
-- TODO
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/python-e2683c.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/java-e2683c.svg?&style=for-the-badge&logo=java&logoColor=white" /> -->
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/pytorch-f9ab00.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/transformers-f9ab00.svg?&style=for-the-badge&logo=Transformers&logoColor=white" />
+    <img src="https://img.shields.io/badge/avalanche-f9ab00.svg?&style=for-the-badge&logo=Avalanche&logoColor=white" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/docker-a9c45e.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linux-a9c45e.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
+  </p>
 
 
   <p align="center">
