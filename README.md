@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jodie-kang/jodie-kang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
 - 🔭 I’m Kang Jingqi, a master at Southeast University and Monash University, Suzhou Joint Graduate School, majoring in Computer Technology.
 - 🌱 My research interests include information extraction and large language models especially prompt engineering, and continual learning.
 - 💬 Email: jingqikang@foxmail.com
