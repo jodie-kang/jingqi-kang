@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 
   <p align="center">
     <img src="https://img.shields.io/badge/python-e2683c.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<!--     <img src="https://img.shields.io/badge/java-e2683c.svg?&style=for-the-badge&logo=java&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/java-e2683c.svg?&style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/c++-e2683c.svg?&style=for-the-badge&logo=c++&logoColor=white" />
+    <img src="https://img.shields.io/badge/c#-e2683c.svg?&style=for-the-badge&logo=c#&logoColor=white" />
   </p>
 
   <p align="center">
@@ -72,7 +74,5 @@ Here are some ideas to get you started:
 - Jun. 2020, **Three Outstanding Students of Jiangsu Province**, Jiangsu Provincial Department of Education
 - Dec. 2019, **National Scholarship**, Ministry of Education of the People's Republic of China
 
-### Skills 🎯
-- Language: Python, PyTorch, PyTorch-Lightning, Linux
-- Tools: Transformers, Avalanche, Docker, Git
-- Hobby: City ​​Walking, Painting, DIY
+### Hobby 🎨
+- Reading and Writing, City ​​Walking, Painting, DIY
