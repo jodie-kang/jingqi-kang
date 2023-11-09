@@ -45,7 +45,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/python-e2683c.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-e2683c.svg?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-e2683c.svg?&style=for-the-badge&logo=c++&logoColor=white" />
-    <img src="https://img.shields.io/badge/c#-e2683c.svg?&style=for-the-badge&logo=c#&logoColor=white" />
   </p>
 
   <p align="center">
