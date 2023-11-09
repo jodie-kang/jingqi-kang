@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 <! --
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wutong8023" alt="wutong8023" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jodie-kang" alt="jodie-kang" /> </p>
 --> 
 
 - 🔭 I’m Kang Jingqi, a master's student at Southeast University and Monash University, Suzhou Joint Graduate School, majoring in Computer Technology, supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (Southeast University). 
