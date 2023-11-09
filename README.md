@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-- 🔭 I’m Kang Jingqi, a master at Southeast University and Monash University, Suzhou Joint Graduate School, majoring in Computer Technology.
-- 🌱 My research interests include information extraction and large language models especially prompt engineering, and continual learning.
+<! --
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wutong8023" alt="wutong8023" /> </p>
+--> 
+
+- 🔭 I’m Kang Jingqi, a master's student at Southeast University and Monash University, Suzhou Joint Graduate School, majoring in Computer Technology, supervised by Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/pagem.htm) (Southeast University). 
+- 🌱 My research interests include natural language processing and machine learning, especially information extraction, and large language models especially prompt engineering, and continual learning.
 - 💬 Email: jingqikang@foxmail.com
 - ⚡ My homepage: https://jodie-kang.github.io/
 
@@ -38,6 +42,13 @@ Here are some ideas to get you started:
 
 ### Experiences 👯
 - TODO
+
+
+  <p align="center">
+    <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+       <img src="https://github-readme-stats.vercel.app/api?username=jodie-kang&count_private=true&show_icons=true"/>
+    </a>
+  </p>
 
 ### Honors 🎉
 - Sep. 2023, **Outstanding Student Leader**, Southeast University
